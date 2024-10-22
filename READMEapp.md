@@ -1,4 +1,4 @@
-# MonoChallenge
+# Elixir aplicación
 
 To start your Phoenix server:
 
